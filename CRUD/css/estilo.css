@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: rgb(111, 52, 167);
+    font-family: "Protest Riot", sans-serif;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    font-size: 40px;
+}
+
+.formulario{
+    padding: 40px;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+input{
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.enviar{
+    width: 100%;
+    background-color: white;
+    border: none;
+    font-family: "Protest Riot", sans-serif;
+    font-size: 15px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background-color: rgb(116, 142, 228);
+    color: black;
+}
+
+.information{
+    font-size: 20px;
+}
+
+.background-menu{
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 5rem;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.background-menu a{
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.background-menu a:hover{
+    color: rgb(112, 55, 202);
+}
+
+.background-menu h1{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
