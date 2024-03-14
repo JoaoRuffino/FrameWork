@@ -1,0 +1,13 @@
+atlas:
+<a href="https://www.flaticon.com/br/icones-gratis/atlas" title="atlas ícones">Atlas ícones criados por Freepik - Flaticon</a>
+info:
+<a href="https://www.flaticon.com/br/icones-gratis/informacao" title="informacao ícones">Informacao ícones criados por Freepik - Flaticon</a>
+history:
+<a href="https://www.flaticon.com/br/icones-gratis/historia" title="história ícones">História ícones criados por Freepik - Flaticon</a>
+
+
+orçamento:
+<a href="https://www.flaticon.com/br/icones-gratis/despesas" title="despesas ícones">Despesas ícones criados por PureSolution - Flaticon</a>
+
+clock:
+<a href="https://www.flaticon.com/br/icones-gratis/ver" title="ver ícones">Ver ícones criados por Freepik - Flaticon</a>
