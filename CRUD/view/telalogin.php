@@ -10,7 +10,7 @@
 
     <div class="tela_login">
         <h1>Login</h1>
-        <form action="" method="POST">
+        <form action="../model/logar.php" method="POST">
         <input type="text" name="email" placeholder="Email"><br><br>
         <div class="fix">
         <input type="password" name="senha" placeholder="Senha"><br><br>

@@ -28,6 +28,8 @@
 
         
         <a href="excluircliente.php?id=<?php echo $linha['cod']; ?>">Excluir</a><br><br>
+        <a href="mudarcliente.php?id=<?php echo $linha['cod']; ?>">Update</a><br><br>
+
     </form>
 
 <?php
