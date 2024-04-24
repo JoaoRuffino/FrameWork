@@ -19,4 +19,4 @@
 
 ?>
 
-<a href="../index.php">Voltar</a>
+<a href="../view/telamenu.php">Voltar</a>

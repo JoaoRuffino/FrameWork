@@ -17,7 +17,7 @@
         <input type="text" name="cxemail" id="e-mail"><br><br>
         <input type="submit" value="Gravar" class="enviar"><br><br>
     </form>
-    <a href="../index.php">Voltar</a>
+    <a href="telamenu.php">Voltar</a>
     </div>
 
     <div class="formulario">

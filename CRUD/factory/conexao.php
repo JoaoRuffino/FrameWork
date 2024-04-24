@@ -1,9 +1,11 @@
 <?php
 
+    
     $server = "localhost";
     $user = "root";
     $password = "";
-    $dbname = "bdagenda";
-    $conn = mysqli_connect($server, $user, $password, $dbname);
-
+    $dbname = "framework";
+    $port = 8080;
+    $conn = mysqli_connect($server, $user, $password, $dbname, $port);
+    
 ?>

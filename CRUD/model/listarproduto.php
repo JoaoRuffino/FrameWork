@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/listarproduto.css">
+
     <title>Listar Produtos</title>
 </head>
 <body>
@@ -21,7 +23,7 @@
 
     <form>
         Produto:
-        <inputlidad type="text" value="<?php echo $linha["nome"] ?>"><br><br>
+        <input type="text"  value="<?php echo $linha["nome"] ?>" ><br><br>
         Data de validade:
         <input type="date"  value="<?php echo $linha["datavalidade"] ?>" ><br><br>
         Quantidade:
@@ -37,7 +39,7 @@
 
 ?>
 
-<a href="../index.php">Voltar</a>
+<a href="../view/telamenu.php">Voltar</a>
 
 
 </body>
